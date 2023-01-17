@@ -2,4 +2,4 @@ SUKRI RESOLUSI
 -Belajar CSS Lengkap
 -Belajar Responsive Web
 -Belajar Java Script
--UP Website
+-Cloud
